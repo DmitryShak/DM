@@ -1,4 +1,5 @@
 
+[[PSQL]]
 ACID
 Atomicity ([](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-ATOMICITY)_[Атомарность](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-ATOMICITY "Атомарность")_), Consistency ([](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-CONSISTENCY)_[Согласованность](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-CONSISTENCY "Согласованность")_), Isolation ([](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-ISOLATION)_[Изолированность](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-ISOLATION "Изолированность")_) и Durability ([](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-DURABILITY)_[Надёжность](https://postgrespro.ru/docs/postgresql/current/glossary#GLOSSARY-DURABILITY "Надёжность")_). Этот набор свойств транзакций в базе данных должен гарантировать корректность операций при параллельном выполнении, а также в случае ошибок, при отключении питания и т. п.
 
